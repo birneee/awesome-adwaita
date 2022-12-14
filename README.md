@@ -7,5 +7,7 @@ List of awesome apps, extensions, modules, themes and tools of the Adwaita desig
 ---
 
 ## Themes
+
+- [adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - A skin to make Steam look more like a native GNOME app
 - [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) - Obsidian theme in the style of Gnome Adwaita
