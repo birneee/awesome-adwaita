@@ -21,6 +21,7 @@ List of awesome apps, extensions, modules, themes and tools of the Adwaita desig
 - [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) - VS Code theme for the GNOME desktop
 - [DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
 - [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) - Obsidian theme in the style of Gnome Adwaita
+- [Thunderbird GNOME theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - A GNOME theme for Thunderbird
 
 ## Icon Themes
 
