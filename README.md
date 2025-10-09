@@ -23,6 +23,8 @@ List of awesome apps, extensions, modules, themes and tools of the Adwaita desig
 - [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) - Obsidian theme in the style of Gnome Adwaita
 - [Thunderbird GNOME theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - A GNOME theme for Thunderbird
 - [Adwaita for Joplin](https://github.com/ivfrost/joplin-adwaita-theme) - GNOME Adwaita theme for Joplin
+- [adw-inkscape](https://github.com/RichardSepsi/adw-inkscape) - Inkscape adwaita theme
+- [adw-gimp3](https://github.com/RichardSepsi/adw-gimp3/) - adw-gtk3 patches for GIMP 3 
 
 ## Icon Themes
 
